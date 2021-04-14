@@ -1,2 +1,0 @@
-# LearnGit
-A documentation project
